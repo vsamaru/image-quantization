@@ -1,0 +1,16 @@
+{
+  "private": true,
+  "name": "apply-palette-from-file",
+  "version": "0.0.1",
+  "description": "Image-Quantization Demo: Apply Palette From File",
+  "main": "index.js",
+  "scripts": {
+    "build": "node index.js"
+  },
+  "author": "Igor Bezkrovnyi",
+  "license": "MIT",
+  "dependencies": {
+    "image-q": "workspace:*",
+    "pngjs": "^3.0.0"
+  }
+}

@@ -1,0 +1,13 @@
+.idea
+
+dist
+docs
+reports
+
+/examples/node.js/demo.js
+/examples/node.js/demo.js.map
+/examples/apply-palette-from-file/out
+
+node_modules
+
+/packages/image-q/README.md
